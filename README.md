@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wologzhanin
 - 👀 I’m interested in JavaScript and frontend at all
-- 🌱 I’m currently learning React and MERN
+- 🌱 I’m currently learning React, Typescript and Node/Express
 
 <!---
 wologzhanin/wologzhanin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
